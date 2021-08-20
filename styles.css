@@ -1,0 +1,41 @@
+/* Giving our body a background color */
+body {
+    background: lightgray;
+  }
+
+.navbar {
+    background: #f1f1f1;
+}
+
+/* Giving our navbar some padding and a background color */
+.navbar-brand {
+    padding: 15px;
+    background: teal;
+    font-weight: 500;
+    font-size: 20;
+    color: white !important;
+  }
+
+.nav-item {
+    align-items: right !important;
+}
+
+
+h1 {
+    color: teal;
+}
+
+.col-md-7 {
+    padding: 25px;
+    margin-top: 20px;
+    margin-right: 10px;
+    background-color: white;
+    
+}
+
+.col-md-4 {
+    padding: 25px;
+    margin-top: 20px;
+    margin-left: 10px;
+    background-color: white;
+}
