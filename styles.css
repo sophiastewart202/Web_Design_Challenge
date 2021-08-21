@@ -16,14 +16,30 @@ body {
     color: white !important;
   }
 
-.nav-item {
-    align-items: right !important;
+a:link {
+    text-decoration: none; 
 }
 
 
 h1 {
     color: teal;
 }
+
+h4 {
+    color: teal;
+}
+
+.col-md-12 {
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 2px;
+    background-color: white;
+    
+}
+
+/* .image-container {
+    align-content: center;
+} */
 
 .col-md-7 {
     padding: 25px;
@@ -33,9 +49,18 @@ h1 {
     
 }
 
+.col-md-10 {
+    padding: 25px;
+    margin-top: 20px;
+    margin-left: 50px;
+    background-color: white;
+    
+}
+
 .col-md-4 {
     padding: 25px;
     margin-top: 20px;
-    margin-left: 10px;
+    margin-left: 2px;
+    margin-right: 2px;
     background-color: white;
 }
